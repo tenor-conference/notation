@@ -1,0 +1,1 @@
+{"scope":"\/","name":"Les nouveaux espaces de la notation musicale","short_name":"Les nouveaux espaces de la notation musicale","description":"","start_url":"\/","background_color":"#fff","theme_color":"#DADFE7","icons":[{"src":"http:\/\/notation.afim-asso.org\/lib\/exe\/fetch.php\/wiki\/dokuwiki.svg","sizes":"17x17 512x512","type":"image\/svg+xml"}]}
